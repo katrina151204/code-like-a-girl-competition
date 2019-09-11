@@ -1,0 +1,33 @@
+
+h1 {
+  color: red;
+  font-family: monospace;
+}
+
+h1{
+  colour: red;
+  font-family: monospace;
+}
+
+p {
+  color: white;
+  font-family: monospace;
+  font-size: 16px;
+}
+img.resize {
+  width:200px;
+  height:40px;
+}
+
+div.bg {
+  /* The image used */
+  background-image: url("../images/upside_down.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
