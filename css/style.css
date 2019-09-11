@@ -1,4 +1,8 @@
 
+body, html {
+  height: auto;
+}
+
 h1 {
   color: red;
   font-family: monospace;
@@ -25,6 +29,7 @@ div.bg {
 
   /* Full height */
   height: 100%;
+
 
   /* Center and scale the image nicely */
   background-position: center;
