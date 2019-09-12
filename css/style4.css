@@ -8,8 +8,8 @@ font-family: monospace
 .test{
   background-color: black;
 }
-p {
-  colour: red;
+p.findus {
+  color: red;
   font-family: monospace;
   font-size: 16px;
-  
+}
