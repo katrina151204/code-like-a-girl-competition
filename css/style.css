@@ -12,10 +12,6 @@ h1 {
   font-family: monospace;
 }
 
-h1{
-  colour: red;
-  font-family: monospace;
-}
 
 p {
   color: red;
@@ -26,8 +22,9 @@ p {
 img.resize {
   width:200px;
   height:40px;
+  margin: auto;
 }
-
-div.bg {
+body{
+  background-color: black;
 }
 {background-color: coral;}
