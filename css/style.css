@@ -12,10 +12,6 @@ h1 {
   font-family: monospace;
 }
 
-h1{
-  colour: red;
-  font-family: monospace;
-}
 
 p {
   color: red;
@@ -26,18 +22,8 @@ p {
 img.resize {
   width:200px;
   height:40px;
+  margin: auto;
 }
-
-div.bg {
-  /* The image used */
-  background-image: url("../images/upside_down.jpg");
-
-  /* Full height */
-  height: 1100px;
-
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: full;
+body{
+  background-color: black;
 }
