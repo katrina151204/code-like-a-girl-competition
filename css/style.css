@@ -29,15 +29,5 @@ img.resize {
 }
 
 div.bg {
-  /* The image used */
-  background-image: url("../images/upside_down.jpg");
-
-  /* Full height */
-  height: 1100px;
-
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: full;
 }
+{background-color: coral;}
