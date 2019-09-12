@@ -4,12 +4,25 @@ text-shadow: 1px 1px #ffff
 text-align: center;
 font-family: monospace
  */
+body {
+  color: red;
+}
 
 .test{
   background-color: black;
 }
-p {
-  colour: red;
+p.findus {
+  color: red;
   font-family: monospace;
   font-size: 16px;
-  
+}
+p.findus {
+  color: red;
+  font-family: monospace;
+  font-size: 16px;
+}
+p.findus {
+  color: red;
+  font-family: monospace;
+  font-size: 16px;
+}
