@@ -4,8 +4,8 @@ body, html {
 }
 .navbar .navbar-nav > li .navbar-item ,
 .navbar .navbar-brand{
-                       color: red;
-                      }
+  color: red;
+}
 
 h1 {
   color: red;
